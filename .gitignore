@@ -1,6 +1,3 @@
-# Large data files (exceeds GitHub 100MB limit)
-Map_Requests.csv
-
 # Python
 __pycache__/
 *.pyc
